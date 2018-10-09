@@ -1,0 +1,2 @@
+# furry-winner
+latex prezentacia
